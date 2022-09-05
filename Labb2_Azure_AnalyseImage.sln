@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb2_Azure_AnalyseImage", "Labb2_Azure_AnalyseImage\Labb2_Azure_AnalyseImage.csproj", "{633B91A6-3C9D-47C3-8042-5D26539A0D1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633B91A6-3C9D-47C3-8042-5D26539A0D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633B91A6-3C9D-47C3-8042-5D26539A0D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633B91A6-3C9D-47C3-8042-5D26539A0D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633B91A6-3C9D-47C3-8042-5D26539A0D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62F7906D-25CB-425D-9F98-D270C31D866F}
+	EndGlobalSection
+EndGlobal
